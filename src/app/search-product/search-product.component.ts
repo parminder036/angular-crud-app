@@ -49,10 +49,7 @@ export class SearchProductComponent implements OnInit {
   clear(){
     this.title = "";
   }
-<<<<<<< HEAD
 
 }
-=======
-}
 
->>>>>>> feature/parminder-project
+
