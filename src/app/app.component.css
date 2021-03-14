@@ -28,16 +28,8 @@ nav ul li {
     width: 28px;
 }
 
-footer {
-    background-color: #192032;
-    color: #ffffff;
-    text-align: center;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    padding: 4px;
-}
-
-footer span {
-    margin-right: 48px;
+.container-fluid {
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 2.5rem; 
 }
